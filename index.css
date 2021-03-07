@@ -302,3 +302,64 @@ li {
 .products-card-dark {
     background-color: #642b1a;
 }
+
+/* story */
+
+.story {
+    display: flex;
+    justify-content: center;
+    height: 850px;
+}
+
+.story-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.story-text-heading {
+    color: #f7ae3b;
+    font-family: Muli;
+    font-size: 50px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 40px;
+    padding-bottom: 50px;
+}
+
+.story-text-about {
+    color: #1e1e1e;
+    font-family: Muli;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 35px;
+    width: 510px;
+    padding-bottom: 50px;
+}
+
+.story-button {
+    width: 300px;
+    height: 60px;
+    border-radius: 35px;
+    border: none;
+    background-color: #12846f;
+    font-family: Muli-bold;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.story-image {
+    display: flex;
+    align-self: center;
+    margin-left: 120px;
+    height: 600px;
+}
