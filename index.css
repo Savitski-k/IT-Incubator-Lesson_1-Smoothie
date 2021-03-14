@@ -363,3 +363,30 @@ li {
     margin-left: 120px;
     height: 600px;
 }
+
+/* testimonials  */
+
+.testimonials {
+    height: 800px;
+    background-color: #67321d;
+}
+.testimonials-header {
+}
+.testimonials-header-span {
+}
+.testimonials-about {
+}
+.testimonials-about-text {
+}
+.testimonials-about-header {
+}
+.testimonials-about-paragraph {
+}
+.testimonial-about-after {
+}
+.testimomials-about-image {
+}
+.testimonials-arrow-left {
+}
+.testimonials-arrow-right {
+}
